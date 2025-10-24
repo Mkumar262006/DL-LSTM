@@ -57,9 +57,9 @@ Train model: Optimize parameters using Adam optimizer and CrossEntropy loss func
 Evaluate and predict: Compare true and predicted tags, then display word-level results.
 ## PROGRAM
 
-### Name:
+### Name: MANOJ KUMAR S
 
-### Register Number:
+### Register Number: 212223240082
 
 ```python
 
